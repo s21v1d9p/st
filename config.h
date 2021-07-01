@@ -6,6 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "Fira Mono:pixelsize=20:antialias=true:autohint=true";
+static char *font1[] ={ "JoyPixels:pixelsize=20:antialias=true:autohint=true", };
 static int borderpx = 2;
 
 /*
